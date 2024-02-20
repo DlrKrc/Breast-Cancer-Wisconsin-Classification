@@ -17,6 +17,7 @@ Normal Nucleoli: 1 - 10
 Mitoses: 1 - 10
 
 Results and Comments:
+The accuracy value, indicating the ratio of correctly predicted observations to the total observations, resulting in 1 signifies that my model performed well.
 In my Breast Cancer dataset, we reached the conclusion that the "benign" class has more instances compared to the "malignant" class, with a total of 444 examples. When analyzing the data based on the given variables, we can make the interpretation that the more common cancer cell is benign.
 
 Statistically speaking, with a good accuracy rate, we can develop a prediction about the general characteristics of the dataset and the relationships between classes. Considering the number and values of variables, I believe that the diagnosis of malignant cancer cells could be better determined.
